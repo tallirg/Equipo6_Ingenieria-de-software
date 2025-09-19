@@ -1,5 +1,6 @@
 # Equipo 6
 
+
 Integrantes:
 
 Antonio Contreras Alan
